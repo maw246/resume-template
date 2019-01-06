@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Marc A. Williams (this is a work in progress)"
+resume_name:                    "Marc A. Williams<br/>(this is a work in progress)"
 resume_title:                   "President and Founder"
 
 # used for the contact button in _layouts/resume.html
