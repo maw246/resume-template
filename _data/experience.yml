@@ -1,7 +1,7 @@
 # Jobs
 # President/Founder
 - company:  CURRENT_COMPANY
-  position: President and Founder
+  position: President and Founder | Arlington, VA
   duration: November 2007 &mdash; Present
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
@@ -19,8 +19,8 @@
 
 # Accenture
 - company:  Accenture
-  position: Consultant
-  duration: November 2002 &mdash; October 2005 | Reston, VA
+  position: Consultant | Reston, VA
+  duration: November 2002 &mdash; October 2005
   summary:  <ul class="resume-item-list"><li>Designed and developed server side Java code for web user login, profile creation and retrieval, input validation, profile updates, and data persistence using Oracle database and Active Directory</li>
     <li>Administered WebSphere Application Server and Oracle databases, components of an externally facing "supplier portal" J2EE application</li>
     <li>Wrote Windows Scripting Host and Perl scripts for administration and reporting</li>
