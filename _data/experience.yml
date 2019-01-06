@@ -1,19 +1,28 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
+# President/Founder
+- company:  CURRENT_COMPANY
+  position: President and Founder
+  duration: November 2007 &mdash; Present
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Sapient
+- company: Sapient Corporation
+  position: Senior Associate (Technical and Management Consulting)
+  duration:  October 2005 &mdash; November 2007
+  summary: <ul class="resume-item-list"><li>Led two teams of Metastorm and .NET developers in requirements gathering for and technical development of three distinct Business Process Management (BPM) efforts; simultaneously managed a team of sub-contractors in a collaborative effort to deploy the client's enterprise workflow hardware and software platform, based on Metastorm BPM, Oracle 10g, and Microsoft IIS running on Windows Server 2003</li>
+    <li>Served as the architect and technical point of contact on a $17MM proposal for future phases of the enterprise workflow platform initiative; included designing SSO and user/roles management approach, outlining reporting options, laying out data migration strategy for existing workflows, and setting course for a 3-year BPM strategic road map</li>
+    <li>Led the technical development, testing, and deployment of a financial transaction accounting workflow, which was successfully developed under the FBIs Rapid Response methodology as the Finance Division's first live Metastorm-based BPM deployment</li>
+    <li>Led a team of software developers through system and software engineering in a successful effort to automate evidence processing at the FBI forensic laboratory; software included Tomcat, Oracle RDBMS, and Java within a Struts framework</li>
+    <li>Conducted agent/end-user interviews and intensive requirements gathering for a nationwide pilot mobile communications rollout</li>
+    <li>Estimated and planned fixed time and fixed price software development projects</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Accenture
+- company:  Accenture
+  position: Consultant
+  duration: November 2002 &mdash; October 2005 | Reston, VA
+  summary:  <ul class="resume-item-list"><li>Designed and developed server side Java code for web user login, profile creation and retrieval, input validation, profile updates, and data persistence using Oracle database and Active Directory</li>
+    <li>Administered WebSphere Application Server and Oracle databases, components of an externally facing "supplier portal" J2EE application</li>
+    <li>Wrote Windows Scripting Host and Perl scripts for administration and reporting</li>
+    <li>Architected an enterprise event management system around BMC's Impact Manager package, resolving design and implementation issues for deployment across networks with various classification levels</li>
+    <li>Designed and deployed interfaces for client's existing network monitoring components to achieve a consolidated network view within BMC Impact Manager; included integrations with HP Openview, BMC Patrol, and MS BizTalk Server feeding into a Siebel ticketing system</li></ul>
