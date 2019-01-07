@@ -3,10 +3,10 @@
 - company:  CURRENT_COMPANY
   position: President and Founder | Arlington, VA
   duration: November 2007 &mdash; Present
-  summary: <h5>Current Client:  Sub-contracting agreement in support of Department of Homeland Security - Citizenship and Immigration Services</h5>
+  summary: <h5>Current Client - Sub-contracting agreement in support of Department of Homeland Security - Citizenship and Immigration Services</h5>
     <ul class="resume-item-list"><li>Lead a 9-person agile development team within a high-paced multi-team environment in which the goal is to digitize a product line of paper-based immigration forms</li>
-    <li>Develop Java/J2EE code and automated tests within the Spring framework for deployment on Amazon Web Services (AWS).  Add'l technologies include Oracle RDBMS (PL/SQL), Tomcat, Activiti BPM, ActiveMQ, Mule, MongoDB (NoSQL), AngularJS, Docker, microservices, SOAP and REST services, Jenkins continuous integration</li>
-    <li>Participate in and oversee all 2-week development sprints-- managed in JIRA-- including requirements distillation, user story creation, Agile scrum master duties, and software development</li>
+    <li>Develop Java/J2EE code and automated tests within the Spring framework for deployment on Amazon Web Services (AWS).  Additional technologies include Oracle RDBMS (PL/SQL), Tomcat, Activiti BPM, ActiveMQ, Mule, MongoDB (NoSQL), AngularJS, Docker, microservices, SOAP and REST services, Jenkins continuous integration</li>
+    <li>Participate in and oversee all development sprints, including requirements distillation, user story creation, Agile scrum master duties, and software development</li>
     <li>Coordinate design, legal, and other dependencies among own team, client stakeholders, and 10+ other agile teams within a highly interconnected product line, with a focus on maximizing code reuse; prime contractor's initial two-team workshare has tripled to six teams based on successful team stewardship</li></ul>
 
 
