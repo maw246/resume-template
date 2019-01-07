@@ -13,9 +13,9 @@
     <li>Designed and developed enterprise Java integration components for interfacing among the web application UI, Adobe LiveCycle server, web services end points, and Documentum Content Server</li>
     <li>Created document management workflows and wrote Java and Javascript custom code enabling end users to interact with the case management system</li>
     <li>Wrote JUnit test scripts, Rational Functional Tester scripts, and Ant build scripts to ensure both quality control and continuous code integration</li>
-    <li>Led and developed on a software engineering team, utilizing open source tooling, libraries, and frameworks to deliver a suite of web applications using an Agile/Scrum approach: Grails, Spring, Hibernate, jQuery, clustered Tomcat, Hudson, Trac, etc.</li>
+    <li>Led and developed on a software engineering team, utilizing open source tooling, libraries, and frameworks to deliver a suite of web applications using an Agile/Scrum approach, i.e., Grails, Spring, Hibernate, jQuery, clustered Tomcat, Hudson, etc.</li>
     <li>Led conversion of a legacy Oracle-centric web application to Spring/Grails platform, including complete system redesign and database migration</li>
-    <li>Performed process and data stream scripting and automation in support of analysts who investigate persons of interest: PL/SQL stored procedures, Windows Scripting, Solaris/Linux shell scripting (bash), VBA, etc.</li>
+    <li>Performed process and data stream scripting and automation in support of analysts who investigate persons of interest, including PL/SQL stored procedures, Windows Scripting, Solaris/Linux shell scripting (bash), VBA, etc.</li>
     <li>Implemented Windows Single Sign-On (SSO) and user management features for handling authentication, authorization, and user synchronization across suite of software modules using kerberos and Spring Security</li>
     <li>Engaged customer to extract detailed user requirements; designed intuitive user features that are modular, maintainable, and consistent with the existing code base</li>
     <li>Facilitated small workshops and requirements gathering sessions with groups of government stakeholders</li>
