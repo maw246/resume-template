@@ -8,6 +8,18 @@
     <li>Develop Java/J2EE code and automated tests within the Spring framework for deployment on Amazon Web Services (AWS).  Additional technologies include Oracle RDBMS (PL/SQL), Tomcat, Activiti BPM, ActiveMQ, Mule, MongoDB (NoSQL), AngularJS, Docker, microservices, SOAP and REST services, Jenkins continuous integration</li>
     <li>Participate in and oversee all development sprints, including requirements distillation, user story creation, Agile scrum master duties, and software development</li>
     <li>Coordinate design, legal, and other dependencies among own team, client stakeholders, and 10+ other agile teams within a highly interconnected product line, with a focus on maximizing code reuse; prime contractor's initial two-team workshare has tripled to six teams based on successful team stewardship</li></ul>
+    <h5>Prior Client Engagements (Federal Law Enforcement)</h5>
+    <ul class="resume-item-list"><li>Led the technical team effort to develop a front-end and server-side forms processing system being deployed as part of the client's case management system</li>
+    <li>Designed and developed enterprise Java integration components for interfacing among the web application UI, Adobe LiveCycle server, web services end points, and Documentum Content Server</li>
+    <li>Created document management workflows and wrote Java and Javascript custom code enabling end users to interact with the case management system</li>
+    <li>Wrote JUnit test scripts, Rational Functional Tester scripts, and Ant build scripts to ensure both quality control and continuous code integration</li>
+    <li>Led and developed on a software engineering team, utilizing open source tooling, libraries, and frameworks to deliver a suite of web applications using an Agile/Scrum approach: Grails, Spring, Hibernate, jQuery, clustered Tomcat, Hudson, Trac, etc.</li>
+    <li>Led conversion of a legacy Oracle-centric web application to Spring/Grails platform, including complete system redesign and database migration</li>
+    <li>Performed process and data stream scripting and automation in support of analysts who investigate persons of interest: PL/SQL stored procedures, Windows Scripting, Solaris/Linux shell scripting (bash), VBA, etc.</li>
+    <li>Implemented Windows Single Sign-On (SSO) and user management features for handling authentication, authorization, and user synchronization across suite of software modules using kerberos and Spring Security</li>
+    <li>Engaged customer to extract detailed user requirements; designed intuitive user features that are modular, maintainable, and consistent with the existing code base</li>
+    <li>Facilitated small workshops and requirements gathering sessions with groups of government stakeholders</li>
+    </ul>
 
 
 # Sapient
