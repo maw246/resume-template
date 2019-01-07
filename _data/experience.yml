@@ -39,6 +39,6 @@
   position: Consultant | Reston, VA
   duration: November 2002 &mdash; October 2005
   summary:  <ul class="resume-item-list"><li>Designed and developed server side Java code for user profile creation and management, backed by Oracle database and Active Directory.</li>
-    <li>Wrote Windows Scripting Host and Perl scripts for administration and reporting</li>
-    <li>Architected an enterprise event management system around BMC's Impact Manager package</li>
-    <li>Integrated client's existing network monitoring tools (HP Openview, BMC Patrol) with BMC Impact Manager to automate network alerts into a Siebel ticketing system</li></ul>
+    <li>Architected an enterprise event management system around BMC's Impact Manager</li>
+    <li>Integrated client's existing network monitoring tools (HP Openview, BMC Patrol) with BMC Impact Manager to automate network alerts into a Siebel ticketing system</li>
+    <li>Wrote Windows Scripting Host and Perl scripts for administration and reporting</li></ul>
